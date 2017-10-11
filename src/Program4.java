@@ -1,14 +1,14 @@
 // Zachary Gibson
 // 60975
-// Project 4
+// Program 4
 
 import java.util.Scanner;
 
-public class Project4 {
+public class Program4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Project 4: Braille by Zac Gibson");
+        System.out.println("Program 4: Braille by Zac Gibson");
         System.out.println("Enter some words:");
 
         while (scanner.hasNextLine()) {
